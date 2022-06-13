@@ -1,5 +1,5 @@
 # minimal-key-and-3NF
-A script that finds a minimal key and decomposes the table into 3NF. Done in Python.
+A script that finds a minimal key in a given relation and decomposes the relation into 3NF. Done in Python.
 
 It iterates through all the minimal functional dependencies and extends them until no more changes can be made.
 
